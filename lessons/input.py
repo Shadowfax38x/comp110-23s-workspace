@@ -1,0 +1,7 @@
+user_name: str = input("what is your name? ")
+print("hello, " + user_name + ", goodmorning")
+print("your coding skills are suboptimal, improve yourself")
+lebron: str = input("do you think lebron is gay? ")
+print("you're probably right," + user_name + " but you never know")
+lebron_2: str = input("don't you think michael is better? ")
+print("you'd be a fool think otherwise")
